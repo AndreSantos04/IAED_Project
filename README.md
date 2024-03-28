@@ -1,5 +1,5 @@
 # IAED_Project
-Algorithms and Data Structures Introduction Projects
+Introduction to Algorithms and Data Structures Projects
 
 Both projects focus on creating a system of public transportation lines with the given user input, with stops, connections between lines, or creation of new lines.
 
